@@ -1,0 +1,2 @@
+module Hilo_java {
+}
